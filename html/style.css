@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(236, 236, 236);
+}
+.card{
+    display: flex;
+    color: rgb(14, 14, 14);
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+.info{
+    display: flex;
+    justify-content: center;
+     flex-direction: column;
+}
